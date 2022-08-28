@@ -1,1 +1,1 @@
-rootProject.name = "interface"
+rootProject.name = "idl"

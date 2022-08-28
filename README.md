@@ -1,6 +1,6 @@
 # introduce
 
-armeria-mono-repository's interface(idl repo)
+armeria-mono-repository's idl(interface repo)
 
 
 # generate proto
